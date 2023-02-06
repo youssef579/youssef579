@@ -12,6 +12,7 @@
     <img title="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40"> 
     <img title="CSS3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="45" height="45"> 
     <img title="JavaScript ES6" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript ES6" width="45"> 
+    <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/130px-React-icon.svg.png" alt="React" width="50">
     <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"> 
     <img title="Sass" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass" width="42">
     <img title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="45"> 
