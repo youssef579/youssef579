@@ -18,3 +18,5 @@
     <img title="Sass" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass" width="42">
     <img title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="45"> 
 </div>
+ <br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef579&show_icons=true&locale=en&layout=compact" alt="Top Langauges" /></p>
+
