@@ -14,6 +14,7 @@
     <img title="JavaScript ES6" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript ES6" width="45"> 
     <img title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width="45"> 
     <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/130px-React-icon.svg.png" alt="React" width="50">
+    <img title="Next.js" src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" alt="Next.js" width="50">
     <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"> 
     <img title="Sass" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass" width="42">
     <img title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="45"> 
