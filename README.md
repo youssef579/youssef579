@@ -20,4 +20,5 @@
     <img title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="45"> 
 </div>
  <br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef579&show_icons=true&locale=en&layout=compact" alt="Top Langauges" /></p>
+ <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644f01c8e2725773749b4c67?variant=dark" alt="roadmap.sh"/></a>
 
