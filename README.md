@@ -1,11 +1,9 @@
 <h1 align="center">Hi There, I'm Youssef. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 <h3 align="center">Typescript Full Stack Web Developer<br>Check out my <a href="https://youssef579.github.io/portfolio/">Portfolio</a>!</h3>
-
 <!-- GIF -->
 <div align="center" >
-<img style="border-radius: 5px" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
-
 <!-- Skills -->
 <h2 align="center">Skills & Technologies</h2>
 <div align="center">
@@ -19,6 +17,8 @@
     <img title="Sass" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass" width="42">
     <img title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="45"> 
 </div>
- <br><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef579&show_icons=true&locale=en&layout=compact" alt="Top Langauges" /></p>
- <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644f01c8e2725773749b4c67?variant=dark" alt="roadmap.sh"/></a>
-
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef579&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="190px" />
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644f01c8e2725773749b4c67?variant=dark" alt="roadmap.sh"/></a>
+</div>
