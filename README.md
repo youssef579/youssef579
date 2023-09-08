@@ -20,5 +20,5 @@
 <br>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef579&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="190px" />
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644f01c8e2725773749b4c67?variant=dark" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644f01c8e2725773749b4c67?variant=dark&roadmaps=typescript%2Cjavascript%2Cfrontend%2Creact" alt="roadmap.sh"/></a>
 </div>
