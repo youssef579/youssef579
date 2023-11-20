@@ -1,24 +1,83 @@
-<h1 align="center">Hi There, I'm Youssef. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
-<h3 align="center">Typescript Full Stack Web Developer<br>Check out my <a href="https://youssef579.github.io/portfolio/">Portfolio</a>!</h3>
-<!-- GIF -->
-<div align="center" >
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">Hi, I'm Youssef Ragaey, a passionate front-end web developer from Egypt.<br>Nice to meet you 😊.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning back-end<br>🎯 Goals: gain as much knowledge as I can<br>📫 How to reach me: youssefragaa3@gmail.com<br>🎲 Fun fact: I like pizza 🍕</p>
+
+###
+
+<h2 align="left">Technologies & Software</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
-<!-- Skills -->
-<h2 align="center">Skills & Technologies</h2>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+</div>
+
+###
+
 <div align="center">
-    <img title="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40"> 
-    <img title="CSS3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="45" height="45"> 
-    <img title="JavaScript ES6" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript ES6" width="45"> 
-    <img title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" width="45"> 
-    <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/130px-React-icon.svg.png" alt="React" width="50">
-    <img title="Next.js" src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" alt="Next.js" width="50">
-    <img title="Tailwind.css" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind.cs" width="50">
-    <img title="Sass" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass" width="42">
-    <img title="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="45"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=youssef579&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef579&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://api.roadmap.sh/v1-badge/wide/644f01c8e2725773749b4c67?variant=dark&roadmaps=frontend%2Cjavascript%2Ctypescript%2Creact" alt="roadmap.sh"/>
 </div>
-<br>
+
+###
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef579&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="190px" />
-    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/644f01c8e2725773749b4c67?variant=dark&roadmaps=typescript%2Cjavascript%2Cfrontend%2Creact" alt="roadmap.sh"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=youssef579.youssef579&"  />
 </div>
+
+###
