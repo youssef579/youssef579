@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since <b>2020</b><br>📚 I'm currently learning <b>back-end</b><br>🎯 Goals: <b>gain as much knowledge as I can</b><br>📫 How to reach me: <b>youssefragaa3@gmail.com</b><br>🎲 Fun fact: <b>I like pizza</b> 🍕</p>
+<p align="left">✨ Creating bugs since <b>2020</b><br>📚 I'm currently learning <b>back-end</b><br>🎯 Goals: <b>gain as much knowledge as I can</b><br>📫 How to reach me: <b><a href="mailto:youssefragaa3@gmail.com">youssefragaa3@gmail.com</a></b><br>🎲 Fun fact: <b>I like pizza</b> 🍕</p>
 
 ###
 
