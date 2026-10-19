@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Youssef%20Ragaey&fontSize=60&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Sophomore%20CS%20@%20Ain%20Shams%20University%20%E2%80%A2%20Competitve%20Programmer%20@%20Codeforces%20%E2%80%A2%20acmASCIS%20Mentor&descSize=15&descAlign=50&descAlignY=93&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&color=timeGradient&section=header&reversal=true&text=Youssef+Ragaey&textBg=false&fontSize=60&fontAlign=50&fontAlignY=37&rotate=0&strokeWidth=0&desc=Sophomore+CS+%40+Ain+Shams+University+%E2%80%A2+Competitve+Programmer+%40+Codeforces+%E2%80%A2+acmASCIS+Mentor&descSize=17&descAlign=50&descAlignY=93"  />
 </div>
 
 ###
