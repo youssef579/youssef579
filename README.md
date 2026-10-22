@@ -41,6 +41,9 @@
     <a href="https://codeforces.com/profile/youssef579" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=FFFFFF" height="30" alt="Codeforces"  />
   </a>
+  <a href="https://leetcode.com/u/youssef579/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-222222?style=for-the-badge&logo=LeetCode&logoColor=FFA116" height="30" alt="Leetcode"  />
+  </a>
 </div>
 
 ###
